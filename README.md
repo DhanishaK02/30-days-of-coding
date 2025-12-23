@@ -9,6 +9,6 @@ DSA questions solved one per day using Python.
 - Focus on logic and interview clarity
 
 ## Progress
-Day 01 – Swapping two numbers
+Day 01 – Swapping two numbers  
 Day 02 – Bubble sort (array sorting)
 
