@@ -10,5 +10,7 @@ DSA questions solved one per day using Python.
 
 ## Progress
 Day 01 – Swapping two numbers  
-Day 02 – Bubble sort (array sorting)
+Day 02 – Bubble sort (array sorting)  
+Day 03 – Palindrome check
+
 
